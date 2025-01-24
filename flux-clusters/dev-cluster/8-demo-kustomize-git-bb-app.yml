@@ -10,5 +10,5 @@ spec:
   prune: true
   sourceRef:
     kind: GitRepository
-    name: gitops-course-udemy-flux-cd-101-with-hands-on-labs-bb-app-source
+    name: 8-demo-source-git-bb-app 
   targetNamespace: 8-demo
